@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914316232746",
+    "project_id": "aerolineadata",
+    "storage_bucket": "aerolineadata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914316232746:android:61fe667d193fb94de71b53",
+        "android_client_info": {
+          "package_name": "com.example.actividadparcial4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914316232746-5mv10tbofqu2thl1o8tvi3an0sn81jb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcgJcXLYlqhCSIQOfTs8xLGhy2T_JzQTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914316232746-5mv10tbofqu2thl1o8tvi3an0sn81jb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
